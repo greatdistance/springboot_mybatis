@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-biz/base-biz.iml" filepath="$PROJECT_DIR$/base/base-biz/base-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-dao/base-dao.iml" filepath="$PROJECT_DIR$/base/base-dao/base-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-web/base-web.iml" filepath="$PROJECT_DIR$/base/base-web/base-web.iml" />
+    </modules>
+  </component>
+</project>
